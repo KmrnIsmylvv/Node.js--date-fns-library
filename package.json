@@ -1,0 +1,14 @@
+{
+  "name": "date-fns-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamran Ismayilov",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.27.0"
+  }
+}
